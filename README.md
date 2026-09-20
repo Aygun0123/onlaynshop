@@ -1,36 +1,97 @@
-<<<<<<< HEAD
+# 🛍️ OnlineShop
 
-# Welcome to your Lovable project
+Modern və responsive onlayn alış-veriş platforması. Layihə istifadəçilərə məhsullara baxmaq, məhsul haqqında ətraflı məlumat əldə etmək və səbətə məhsul əlavə etmək imkanı təqdim edir.
 
-This project was built with [Lovable](https://lovable.dev).
+## 📸 Screenshot
 
-## Build with Lovable
+> Buraya layihənin əsas səhifəsinin screenshot-u əlavə ediləcək.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+![OnlineShop Screenshot](./public/screenshot.png)
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## ✨ Əsas funksiyalar
 
-## Development
+* 🛒 Məhsulları səbətə əlavə etmək
+* ➕ Səbətdə məhsul sayını artırmaq və azaltmaq
+* 🗑️ Məhsulu səbətdən silmək
+* 📦 Məhsul haqqında ətraflı məlumat
+* 🔍 Məhsul səhifələri
+* 📱 Responsive dizayn
+* 🧭 Sayt daxilində rahat naviqasiya
+* 💾 Səbət məlumatlarının idarə olunması
+* 🎨 Modern və istifadəçi dostu interfeys
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 🛠️ İstifadə olunan texnologiyalar
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+* **React** — istifadəçi interfeysinin hazırlanması
+* **TypeScript** — type-safe JavaScript
+* **TanStack Start** — full-stack React framework
+* **Tailwind CSS** — UI dizaynı və responsive layout
+* **Vite** — development və build sistemi
+* **ESLint** — kod keyfiyyətinin yoxlanılması
+* **Prettier** — kod formatlaşdırılması
+* **Git & GitHub** — versiya nəzarəti
+
+## 📂 Layihənin strukturu
+
+```text
+onlaynshop/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── hooks/
+│   ├── lib/
+│   ├── routes/
+│   ├── stores/
+│   ├── styles.css
+│   └── router.tsx
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
+```
+
+## 🚀 Lokal olaraq işə salmaq
+
+Repository-ni clone edin:
+
+```bash
+git clone https://github.com/Aygun0123/onlaynshop.git
+```
+
+Layihə qovluğuna keçin:
+
+```bash
+cd onlaynshop
+```
+
+Lazımi paketləri yükləyin:
+
+```bash
+npm install
+```
+
+Development server-i başladın:
+
+```bash
 npm run dev
 ```
 
-## Built with
+Daha sonra brauzerdə terminalda göstərilən lokal URL-i açın.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
-  \=======
+## 🎯 Layihənin məqsədi
 
-# onlaynshop
+Bu layihənin əsas məqsədi müasir web texnologiyalarından istifadə edərək funksional və istifadəçi dostu e-commerce platformasının hazırlanmasıdır.
 
-> > > > > > > 333adb71b2fb277ea64167a6d46017c15de7f989
+Layihə həmçinin React, TypeScript, state management, routing və responsive web design sahəsində praktiki təcrübə qazanmaq üçün hazırlanmışdır.
+
+## 👩‍💻 Developer
+
+**Aygün Güləliyeva**
+
+* GitHub: [Aygun0123](https://github.com/Aygun0123)
+
+---
+
+⭐ Əgər layihə xoşunuza gəldisə, repository-yə star verməyi unutmayın!
+
