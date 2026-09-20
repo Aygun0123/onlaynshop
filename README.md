@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Welcome to your Lovable project
 
 This project was built with [Lovable](https://lovable.dev).
@@ -27,3 +29,8 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+  \=======
+
+# onlaynshop
+
+> > > > > > > 333adb71b2fb277ea64167a6d46017c15de7f989
